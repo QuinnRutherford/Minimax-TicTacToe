@@ -1,4 +1,4 @@
-# Read Me
+# Minimax-TicTacToe
 This project uses a recursive minimax algorithm and OOP in Python to never loose to a human player in Tic Tac Toe.
 
 # General Information
